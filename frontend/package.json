@@ -8,9 +8,9 @@
     "build":"npm i",
     "scripts": {
   "start": "react-scripts start"
-},
+}
 
-  },
+  }
   "keywords": [],
   "author": "",
   "license": "ISC",
