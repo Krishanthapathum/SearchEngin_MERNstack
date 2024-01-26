@@ -5,12 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"npm i",
-    "scripts": {
-  "start": "react-scripts start"
-}
-
-  }
+    "build": "npm i",
+    "start": "react-scripts start" // Moved "start" script out of the nested "scripts" property
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
