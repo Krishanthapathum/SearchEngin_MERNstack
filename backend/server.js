@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 const readFileAsync = util.promisify(fs.readFile);
 
 app.use(cors({
-    origin: 'http://localhost:3000'
+    origin: 'http://localhost:10000'
 }));
 
 app.get('/', (req, res) => {
