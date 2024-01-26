@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/search', async (req, res) => {
-    const searchTerm = req.query.q.toLowerCase(); // Get the search term from query parameter
+   const searchTerm = (req.query.q || '').toLowerCase(); // Get the search term from query parameter
     try {
         // Find distinct TV show names from MongoDB collection
         const matchingShows = await tvshow.find({ name: { $regex: searchTerm, $options: 'i' } })
