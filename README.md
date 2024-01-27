@@ -7,20 +7,16 @@
 ## Introduction
 Welcome to TV Show Search, a simple web application designed for frontend users to search for their favorite TV series. This project utilizes React.js for the frontend, Node.js and Express.js for the backend, and MongoDB as the database. The main functionality of the application is to allow users to search for TV series by typing a name or part of the name into an input box and clicking the search button. The backend server handles the search query and retrieves the three best matching TV series names from the provided data stored in a MongoDB database.
 
-Check out this video on YouTube: [NMEDIX Video Link](https://www.youtube.com/watch?v=gKOYDavz4gc)
-
-
 
 ## FontEnd UI
-img src="resources/SearchEngin_Figma_design.png" height="400" width="1200"
 
 <img src="resources/SearchEngin_Figma_design.png" > 
 
->User Appointment History
-NMedix's user appointments history interface offers a comprehensive view of past appointments, including dates, timings, and medical information, allowing users to track their healthcare journey.
+## Features
 
->FEEDBACK
-The fields on the feedback interface allow the user's name, batch, and feedback to all be entered. Users can share their opinions about the software, the services, or any other pertinent problem in the feedback section.
-
+Input box for users to enter the name or part of the name of a TV series.
+Display of the three best matching TV series names.
+Utilizes MongoDB to store and retrieve TV series data.
+Responsive and user-friendly interface.
 
 
