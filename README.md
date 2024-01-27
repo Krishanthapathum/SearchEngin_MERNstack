@@ -1,4 +1,4 @@
-# NMEDIX Mobile Applicattion
+# Search Engin Using MERN Stack
 
 <a href="#"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Krishanthapathum&label=Profile%20views&color=0e75b6&style=flat" width="125"/></a>
 [![Welcome](https://img.shields.io/badge/Tech%20Pulze%20-Welcome-brightgreen)](#) 
@@ -14,7 +14,7 @@ Check out this video on YouTube: [NMEDIX Video Link](https://www.youtube.com/wat
 ## FontEnd UI
 img src="resources/SearchEngin_Figma_design.png" height="400" width="1200"
 
-<img src="assets/6.png" height="400" width="1200" > 
+<img src="resourced/SearchEngin_Figma_design.png" height="400" width="1200" > 
 
 >User Appointment History
 NMedix's user appointments history interface offers a comprehensive view of past appointments, including dates, timings, and medical information, allowing users to track their healthcare journey.
