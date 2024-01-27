@@ -12,7 +12,7 @@ Check out this video on YouTube: [NMEDIX Video Link](https://www.youtube.com/wat
 
 
 ## FontEnd UI
-<!--img src="./resorce/.png" height="400" width="1200" --> 
+img src="resources/SearchEngin_Figma_design.png" height="400" width="1200"
 
 <img src="assets/6.png" height="400" width="1200" > 
 
