@@ -28,7 +28,7 @@ Welcome to TV Show Search, a simple web application designed for frontend users 
 ## Take a Look
 
 1. Clone the repo
-   > git clone https://github.com/your_username/your_project.git
+   > git clone https://github.com/Krishanthapathum/SearchEngin_MERNstack.git
 
 2. Install npm packages
    > npm install
