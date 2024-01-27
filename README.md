@@ -14,7 +14,7 @@ Check out this video on YouTube: [NMEDIX Video Link](https://www.youtube.com/wat
 ## FontEnd UI
 img src="resources/SearchEngin_Figma_design.png" height="400" width="1200"
 
-<img src="resourced/SearchEngin_Figma_design.png" height="400" width="1200" > 
+<img src="resources/SearchEngin_Figma_design.png" > 
 
 >User Appointment History
 NMedix's user appointments history interface offers a comprehensive view of past appointments, including dates, timings, and medical information, allowing users to track their healthcare journey.
